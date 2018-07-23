@@ -8,8 +8,6 @@
 </head>
 <body>
 	<p>menambahkan kode baru ke html</p>
-	<div class="container">
-		
-	</div>
+	
 </body>
 </html>
