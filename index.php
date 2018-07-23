@@ -7,6 +7,6 @@
 	<link rel="stylesheet" href="style.css"> <!-- ini file yang saya rubah -->
 </head>
 <body>
-	
+	<p>menambahkan kode baru ke html</p>
 </body>
 </html>
