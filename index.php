@@ -1,1 +1,4 @@
-ini adalah file php
+<?php 
+	$y = 10;
+	echo $y;
+ ?>
